@@ -1,4 +1,4 @@
-ariable "project_id" {
+variable "project_id" {
     type= string
 }
 variable "google_compute_network"{
